@@ -3,13 +3,13 @@
  * Plugin Name: Mizzou Further Security Enhancements TEST
  * Description: KERNL integration test version.  blocks remote enumeration of usernames and removes wordpress version number from generators
  * Author: Paul Gilzow, Mizzou Creative, University of Missouri
- * Version: 0.1.2
+ * Version: 0.1.3
  *
  * @package Plugins
  * @subpackage Security
  * @author Paul F. Gilzow, Mizzou Creative, University of Missouri
  * @copyright 2015 Curators of the University of Missouri
- * @version 0.1.2
+ * @version 0.1.3
  */
 
 /**
